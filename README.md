@@ -1,3 +1,8 @@
+### Preview
+
+![Website Preview](./preview.png)
+
+
 <div align="center">
   <img src="./assets/imgs/favicon.png" alt="FuseFlux Logo" width="100"/>
   <h1>FuseFlux - Electric Car Website</h1>
@@ -16,15 +21,12 @@
 
 ## About The Project
 
-**FuseFlux** is a front-end project for a fictional electric car dealership. This fully responsive website offers an engaging user experience with smooth animations and a clean, futuristic design. It serves as an excellent portfolio piece to demonstrate skills in HTML, CSS, and JavaScript, particularly with animations and interactive libraries.
+**Elysian Drive** is a front-end project for a fictional electric car dealership. This fully responsive website offers an engaging user experience with smooth animations and a clean, futuristic design. It serves as an excellent portfolio piece to demonstrate skills in HTML, CSS, and JavaScript, particularly with animations and interactive libraries.
 
 The project includes several sections: a captivating home page, an "About" section, a "Popular" car slider, and a filterable "Featured" car gallery.
 
-### Preview
 
-![Website Preview](./preview.png)
-
-### Features
+### Key Features
 
 *   **Fully Responsive Design**: Optimized for desktops, tablets, and mobile devices.
 *   **Smooth Scroll Animations**: Implemented with the [ScrollReveal.js](https://scrollrevealjs.org/) library to animate elements as they enter the viewport.
@@ -57,7 +59,7 @@ The project includes several sections: a captivating home page, an "About" secti
 
 ### License
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
+This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. You are free to use and adapt this code for educational and personal purposes only. Commercial use is not allowed.
 
 Please see the LICENSE file for more details. In short, you are free to use and adapt this code for **educational and personal purposes only**. You are **not permitted** to use it for commercial activities.
 
@@ -83,7 +85,7 @@ Please see the LICENSE file for more details. In short, you are free to use and 
 ## Version Française
 
 <div align="center">
-  <h1>FuseFlux - Site Vitrine de Voitures Électriques</h1>
+  <h1>Elysian Drive - Site Vitrine de Voitures Électriques</h1>
   <p>
     Une page d'accueil moderne et responsive pour une vitrine de voitures électriques, réalisée avec HTML, CSS et JavaScript.
   </p>
@@ -91,7 +93,7 @@ Please see the LICENSE file for more details. In short, you are free to use and 
 
 ### À propos du projet
 
-**FuseFlux** est un projet front-end pour un concessionnaire fictif de voitures électriques. Ce site entièrement responsive offre une expérience utilisateur engageante avec des animations fluides et un design épuré et futuriste. Il constitue un excellent projet de portfolio pour démontrer des compétences en HTML, CSS et JavaScript, notamment avec des bibliothèques d'animation et d'interaction.
+**Elysian Drive** est un projet front-end pour un concessionnaire fictif de voitures électriques. Ce site entièrement responsive offre une expérience utilisateur engageante avec des animations fluides et un design épuré et futuriste. Il constitue un excellent projet de portfolio pour démontrer des compétences en HTML, CSS et JavaScript, notamment avec des bibliothèques d'animation et d'interaction.
 
 Le projet comprend plusieurs sections : une page d'accueil captivante, une section "À propos", un carrousel de voitures "Populaires" et une galerie filtrable de voitures "Vedettes".
 
@@ -128,7 +130,7 @@ Le projet comprend plusieurs sections : une page d'accueil captivante, une secti
 
 ### Licence
 
-Ce projet est sous la **Licence Internationale Creative Commons Attribution-NonCommercial-ShareAlike 4.0**.
+Ce projet est sous la **Licence Internationale Creative Commons Attribution-NonCommercial-ShareAlike 4.0**. Vous êtes libre d'utiliser et d'adapter ce code à des fins éducatives et personnelles uniquement. L'utilisation commerciale est interdite.
 
 Veuillez consulter le fichier LICENSE pour plus de détails. En résumé, vous êtes libre d'utiliser et d'adapter ce code à des **fins éducatives et personnelles uniquement**. Il est **interdit** de l'utiliser pour des activités commerciales.
 
