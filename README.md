@@ -135,5 +135,5 @@ Veuillez consulter le fichier LICENSE pour plus de détails. En résumé, vous �
 
 **Wistant Kode**
 *   **Email**: wistantkode@protonmail.com
-*   **Portfolio**: wistantkode.netlify.app
-*   **GitHub**: github.com/wistantkode
+*   **Portfolio**: https://wistantkode.netlify.app
+*   **GitHub**: https://github.com/wistantkode
