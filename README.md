@@ -40,7 +40,7 @@ For the full feature set, please visit the live site.
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/WistantKode/responsive-car-website-fuseflux.git
+    git clone https://github.com/WistantKode/responsive-car-website.git
     ```
 2.  Navigate to the project directory:
     ```sh
