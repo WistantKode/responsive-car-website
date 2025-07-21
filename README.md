@@ -1,16 +1,17 @@
 ### Preview
 
 ![Website Preview](./preview.png)
-
-
 <div align="center">
-  <img src="./assets/imgs/favicon.png" alt="FuseFlux Logo" width="100"/>
-  <h1>FuseFlux - Electric Car Website</h1>
+  <img src="./assets/imgs/favicon.png" alt="Elysian Drive Logo" width="100"/>
+  <h1>Elysian Drive - Electric Car Website</h1>
   <p>
     A modern and responsive landing page for an electric car showcase, built with HTML, CSS, and JavaScript.
   </p>
   <p>
-    <a href="https://wistantkode.netlify.app/"><strong>View Portfolio »</strong></a>
+    <a href="https://elsyandrive-wistant.netlify.app/"><strong>View Live Site »</strong></a>
+  </p>
+  <p>
+    <a href="https://github.com/WistantKode/responsive-car-website-fuseflux"><strong>View Full Project Code »</strong></a>
   </p>
   <br>
   <img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="License: CC BY-NC-SA 4.0">
@@ -21,29 +22,19 @@
 
 ## About The Project
 
-**Elysian Drive** is a front-end project for a fictional electric car dealership. This fully responsive website offers an engaging user experience with smooth animations and a clean, futuristic design. It serves as an excellent portfolio piece to demonstrate skills in HTML, CSS, and JavaScript, particularly with animations and interactive libraries.
+**Elysian Drive** is a front-end project showcasing electric cars. This landing page offers a glimpse into the full website, which features smooth animations and a futuristic design. It highlights skills in HTML, CSS, and JavaScript, especially with animation and interactive libraries.
 
-The project includes several sections: a captivating home page, an "About" section, a "Popular" car slider, and a filterable "Featured" car gallery.
+**Please note**: This repository contains a **simplified version** of the Elysian Drive website. To explore the complete project with all its features, including the "About" section, "Popular" car slider, and filterable "Featured" car gallery, please visit the live site: [elsyandrive-wistant.netlify.app](https://elsyandrive-wistant.netlify.app/).
 
+### Key Features (Simplified Version)
 
-### Key Features
+This simplified version includes:
 
-*   **Fully Responsive Design**: Optimized for desktops, tablets, and mobile devices.
-*   **Smooth Scroll Animations**: Implemented with the [ScrollReveal.js](https://scrollrevealjs.org/) library to animate elements as they enter the viewport.
-*   **Interactive Car Carousel**: A touch-friendly slider for popular models, powered by [Swiper.js](https://swiperjs.com/).
-*   **Filterable Gallery**: A gallery of featured cars that can be filtered by brand, using [MixItUp.js](https://www.kunkalabs.com/mixitup/).
-*   **Clean & Modern UI**: A visually appealing design focused on user experience.
+*   **Responsive Design**: Adapts to different screen sizes.
+*   **Modern UI**: Clean and engaging visual design.
+*   **Core Technologies**: Demonstrates use of HTML, CSS, and JavaScript.
 
-### Technologies Used
-
-*   **HTML5**: For the structure of the website.
-*   **CSS3**: For styling, including CSS variables and modern layout techniques.
-*   **JavaScript (ES6)**: For interactivity like the mobile menu and library integrations.
-*   **Libraries**:
-    *   [ScrollReveal.js](https://scrollrevealjs.org/): To create and manage scroll animations.
-    *   [Swiper.js](https://swiperjs.com/): For the "Popular" section carousel.
-    *   [MixItUp.js](https://www.kunkalabs.com/mixitup/): For filtering in the "Featured" section.
-    *   [Remix Icon](https://remixicon.com/): For high-quality icons.
+For the full feature set, please visit the live site.
 
 ### Installation
 
@@ -57,6 +48,8 @@ The project includes several sections: a captivating home page, an "About" secti
     ```
 3.  Open the `index.html` file in your browser to view the site.
 
+To see the complete website with all features, visit: [elsyandrive-wistant.netlify.app](https://elsyandrive-wistant.netlify.app/).
+
 ### License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. You are free to use and adapt this code for educational and personal purposes only. Commercial use is not allowed.
@@ -67,8 +60,8 @@ Please see the LICENSE file for more details. In short, you are free to use and 
 
 **Wistant Kode**
 *   **Email**: wistantkode@protonmail.com
-*   **Portfolio**: wistantkode.netlify.app
-*   **GitHub**: github.com/wistantkode
+*   **Portfolio**: https://wistantkode.netlify.app
+*   **GitHub**: https://github.com/wistantkode
 
 ---
 
@@ -85,7 +78,7 @@ Please see the LICENSE file for more details. In short, you are free to use and 
 ## Version Française
 
 <div align="center">
-  <h1>Elysian Drive - Site Vitrine de Voitures Électriques</h1>
+  <h1>Elysian Drive - Site Web de Voitures Électriques</h1>
   <p>
     Une page d'accueil moderne et responsive pour une vitrine de voitures électriques, réalisée avec HTML, CSS et JavaScript.
   </p>
@@ -93,17 +86,19 @@ Please see the LICENSE file for more details. In short, you are free to use and 
 
 ### À propos du projet
 
-**Elysian Drive** est un projet front-end pour un concessionnaire fictif de voitures électriques. Ce site entièrement responsive offre une expérience utilisateur engageante avec des animations fluides et un design épuré et futuriste. Il constitue un excellent projet de portfolio pour démontrer des compétences en HTML, CSS et JavaScript, notamment avec des bibliothèques d'animation et d'interaction.
+**Elysian Drive** est un projet front-end présentant des voitures électriques. Cette page d'accueil offre un aperçu du site web complet, qui propose des animations fluides et un design futuriste. Il met en valeur les compétences en HTML, CSS et JavaScript, en particulier avec les bibliothèques d'animation et d'interaction.
 
-Le projet comprend plusieurs sections : une page d'accueil captivante, une section "À propos", un carrousel de voitures "Populaires" et une galerie filtrable de voitures "Vedettes".
+**Veuillez noter** : Ce dépôt contient une **version simplifiée** du site web Elysian Drive. Pour explorer le projet complet avec toutes ses fonctionnalités, y compris la section "À propos", le carrousel de voitures "Populaires" et la galerie filtrable de voitures "Vedettes", veuillez visiter le site web : [elsyandrive-wistant.netlify.app](https://elsyandrive-wistant.netlify.app/).
 
-### Fonctionnalités
+### Fonctionnalités (Version Simplifiée)
 
-*   **Design Entièrement Responsive**: Optimisé pour ordinateurs, tablettes et appareils mobiles.
-*   **Animations au Défilement Fluides**: Implémentées avec la bibliothèque ScrollReveal.js.
-*   **Carrousel de Voitures Interactif**: Un slider tactile pour les modèles populaires, propulsé par Swiper.js.
-*   **Galerie Filtrable**: Une galerie de voitures vedettes qui peut être filtrée par marque, en utilisant MixItUp.js.
-*   **Interface Utilisateur Propre et Moderne**: Un design visuellement attractif axé sur l'expérience utilisateur.
+Cette version simplifiée comprend :
+
+*   **Design Responsive** : S'adapte à différentes tailles d'écran.
+*   **Interface Moderne** : Design visuel propre et attrayant.
+*   **Technologies de Base** : Démontre l'utilisation de HTML, CSS et JavaScript.
+
+Pour l'ensemble complet des fonctionnalités, veuillez visiter le site web.
 
 ### Technologies Utilisées
 
@@ -127,6 +122,8 @@ Le projet comprend plusieurs sections : une page d'accueil captivante, une secti
     cd responsive-car-website-fuseflux
     ```
 3.  Ouvrez le fichier `index.html` dans votre navigateur pour voir le site.
+
+Pour voir le site web complet avec toutes les fonctionnalités, visitez : [elsyandrive-wistant.netlify.app](https://elsyandrive-wistant.netlify.app/).
 
 ### Licence
 
